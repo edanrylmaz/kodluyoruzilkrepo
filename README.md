@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo. [PatikaDev](htttps://www.patika.dev)
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. 
+[PatikaDev](htttps://www.patika.dev)
 ## Repo Oluşturma
 ![Image](image/kodluyoruzilkrepo.png)
 ## Installation
